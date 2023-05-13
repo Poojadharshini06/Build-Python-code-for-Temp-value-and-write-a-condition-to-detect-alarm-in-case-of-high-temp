@@ -1,0 +1,1 @@
+# Build-Python-code-for-Temp-value-and-write-a-condition-to-detect-alarm-in-case-of-high-temp
